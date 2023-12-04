@@ -29,9 +29,21 @@ h2 {
 }
 
 p {
+    font-family: ;
     color: var(--transparent-white);
     font-size: 0.9375rem;
     margin-bottom: 1.5rem;
+}
+
+a {
+    display: block;
+    text-decoration: none;
+    color: var(--transparent-white);
+    margin-bottom: 1.875rem;
+}
+
+section {
+    padding: 3rem;
 }
 
 .card {
